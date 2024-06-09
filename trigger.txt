@@ -1,1 +1,1 @@
-redis registry.cn-hangzhou.aliyuncs.com/redis
+redis registry.cn-hangzhou.aliyuncs.com/seven-docker-pull-proxy/redis
