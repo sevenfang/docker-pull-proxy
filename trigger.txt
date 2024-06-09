@@ -1,1 +1,1 @@
-elasticsearch:8    registry.cn-hangzhou.aliyuncs.com/s7n/elasticsearch:8
+docker.io/bitnami/elasticsearch:8    registry.cn-hangzhou.aliyuncs.com/s7n/elasticsearch:8
