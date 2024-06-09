@@ -1,1 +1,1 @@
-onlyoffice/documentserver:7.2.1  registry.cn-hangzhou.aliyuncs.com/seven-docker-pull-proxy/onlyoffice/documentserver:7.2.1
+redis:7-alpine  registry.cn-hangzhou.aliyuncs.com/s7n/redis:7-alpine
