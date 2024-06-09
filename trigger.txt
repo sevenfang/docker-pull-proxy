@@ -1,1 +1,1 @@
-documentserver:7.2.1   registry.cn-hangzhou.aliyuncs.com/s7n/onlyoffice/documentserver:7.2.1
+onlyoffice/documentserver:7.2.1   registry.cn-hangzhou.aliyuncs.com/s7n/documentserver:7.2.1
