@@ -1,1 +1,1 @@
-redis registry.cn-hangzhou.aliyuncs.com/seven-docker-pull-proxy/redis
+redis:7-alpine  registry.cn-hangzhou.aliyuncs.com/seven-docker-pull-proxy/redis:7-alpine
