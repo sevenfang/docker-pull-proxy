@@ -1,1 +1,1 @@
-redis:7-alpine  registry.cn-hangzhou.aliyuncs.com/s7n/redis:7-alpine
+onlyoffice/documentserver:7.2.1   registry.cn-hangzhou.aliyuncs.com/s7n/onlyoffice/documentserver:7.2.1
