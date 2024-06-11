@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.4     registry.cn-hangzhou.aliyuncs.com/s7n/milvus:v2.4.4  
+milvusdb/milvus:v2.4.4     registry.cn-hangzhou.aliyuncs.com/s7n/milvus:v2.4.4 
