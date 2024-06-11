@@ -1,1 +1,1 @@
-zilliz/attu:v2.4.1     registry.cn-hangzhou.aliyuncs.com/s7n/attu:v2.4.1
+milvusdb/milvus:v2.4.4     registry.cn-hangzhou.aliyuncs.com/s7n/milvus:v2.4.4  
