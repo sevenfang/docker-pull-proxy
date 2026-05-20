@@ -1,1 +1,1 @@
-sundongwei/mineru:latest    registry.cn-hangzhou.aliyuncs.com/s7n/mineru:latest
+gpustackcommunity/mineru:3.0.5   registry.cn-hangzhou.aliyuncs.com/s7n/mineru:3.0.5
