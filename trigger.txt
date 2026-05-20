@@ -1,2 +1,1 @@
-edoburu/pgbouncer:latest    registry.cn-hangzhou.aliyuncs.com/s7n/pgbouncer:latest
-heartexlabs/label-studio:latest    registry.cn-hangzhou.aliyuncs.com/s7n/label-studio:latest
+sundongwei/mineru:latest    registry.cn-hangzhou.aliyuncs.com/s7n/mineru:latest
