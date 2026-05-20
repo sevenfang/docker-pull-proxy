@@ -1,1 +1,1 @@
-datajuicer/data-juicer:v1.4.4    registry.cn-hangzhou.aliyuncs.com/s7n/opendatalab/data-juicer:v1.4.4
+datajuicer/data-juicer:latest    registry.cn-hangzhou.aliyuncs.com/s7n/opendatalab/data-juicer:latest
