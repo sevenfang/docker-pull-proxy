@@ -1,1 +1,2 @@
-datajuicer/data-juicer:latest    registry.cn-hangzhou.aliyuncs.com/s7n/data-juicer:latest
+edoburu/pgbouncer:latest    registry.cn-hangzhou.aliyuncs.com/s7n/pgbouncer:latest
+heartexlabs/label-studio:latest    registry.cn-hangzhou.aliyuncs.com/s7n/label-studio:latest
