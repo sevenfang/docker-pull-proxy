@@ -1,1 +1,1 @@
-rancher/rancher:latest    registry.cn-hangzhou.aliyuncs.com/s7n/rancher:latest
+opendatalab/mineru:latest-cuda    registry.cn-hangzhou.aliyuncs.com/s7n/opendatalab/mineru:latest-cuda
