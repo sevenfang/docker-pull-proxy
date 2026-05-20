@@ -1,1 +1,1 @@
-opendatalab/mineru:latest-cuda    registry.cn-hangzhou.aliyuncs.com/s7n/opendatalab/mineru:latest-cuda
+datajuicer/data-juicer:v1.4.4    registry.cn-hangzhou.aliyuncs.com/s7n/opendatalab/data-juicer:v1.4.4
